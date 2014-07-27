@@ -33,7 +33,7 @@
           		<a class="brand" href="<?php echo URL::to_home(); ?>">
 					<img src="img/logo.png" width="200" height="40" />
 				</a>
-				<!-- <span class="brand">Powered by <a href="http://pongocms.com" title="Laravel CMS bundle">PongoCMS.com</a></span> -->
+				<span class="brand">Powered by <a href="http://pongocms.com" title="Laravel CMS bundle">PongoCMS.com</a></span>
         	</div>
       	</div>
     </div>
